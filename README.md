@@ -11,7 +11,7 @@ The file corresponding to this page is `Articles.js`.
 
 
 
-**Details page -** When an Article is clicked in HomePage, the user is redirected to Details Page. It contains the Article in a detailed form. 
+**Details page -** When an Article is clicked in HomePage, the user is redirected to Details Page. It contains the Article in a detailed form. Home is taken as default section.
 
 The file corresponding to this page is `Article.js`.
 
