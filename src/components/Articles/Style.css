@@ -1,0 +1,19 @@
+/*
+.article{
+    width:45%;
+    margin-top:2%
+}
+*/
+.heading{ 
+    color: lightseagreen;
+}
+.link{
+    color: lightseagreen;
+}
+.link:hover{
+    text-decoration: underline
+}
+.row-wise{
+    display: flex;
+    flex-direction: row;
+}
